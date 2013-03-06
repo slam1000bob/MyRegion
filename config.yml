@@ -1,0 +1,5 @@
+PricePerBlock: 0.0
+MinRegionSize: 0
+MaxRegionSize: 10000
+SetRegionPrice: 0.0
+MaxPendingRegionsPerPlayer: 10

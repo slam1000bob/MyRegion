@@ -1,0 +1,7 @@
+name: MyRegions
+main: com.TactileCraft.MyRegion.MyRegion
+author: Jerod5
+version: 0.0.1
+commands:
+  protect:
+    description: Allows players to create protected regions!
